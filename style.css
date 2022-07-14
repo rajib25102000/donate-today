@@ -1,0 +1,134 @@
+body{
+                    font-family: 'Poppins', sans-serif;
+
+}
+.first-section{
+                background-image: url(images/donation0.jpg);
+                background-repeat: no-repeat;
+                height: 90vh;
+                background-size:cover ;              
+}
+.donate{
+                    
+                    text-align: center;
+                    padding:150px;
+                    color:rgb(5, 245, 249);
+                  font-weight: bold;
+                  font-size: 25px;
+}                   
+.link-button{
+                    text-decoration: none;
+                    background-color: tomato;
+                    color: white;
+                    padding: 10px;
+                    border-radius: 5px;
+                    font-weight: 700;
+}
+.second-section{
+                    text-align: center;
+                    margin-top: 50px; 
+                                        
+}
+
+.button-taka{
+                    background-color: rgba(243, 241, 239, 0.951);
+                    padding: 30px;
+                    font-size: 20px;
+                    font-weight: 700px;
+                   
+                   border: none;
+                   margin-top: 50px;
+                   margin-bottom: 50px; 
+                  
+}
+.button-second{
+                    background-color: pink;
+                    border: 2px solid tomato;
+                    padding: 30px;
+                    font-size: 20px;
+                    font-weight: 700px;
+                    border-radius: 5px;
+
+                    
+}
+.other-amount{
+                    text-align: center;
+                   margin-top: 50px;
+}
+
+.div-main{
+    display: flex;
+}
+.third-section{
+                    margin-top: 100px;
+}
+.donate-plan{
+               text-align: center;     
+}
+
+.food{
+                    background-color: pink;
+                    margin: 10px;
+                    padding: 10px;
+                    height: 200px;
+                    border-radius: 5px;
+
+}
+.family{
+                    background-color: aqua;
+                    margin: 10px;
+                    padding: 10px;
+                    height: 200px;
+                    border-radius: 5px;
+}
+.educadet{
+                    background-color: blueviolet;
+                    margin: 10px;
+                    padding: 10px;
+                    height: 200px;
+                    border-radius: 5px;
+}
+.section-four{
+                   margin-top: 100px;
+                    display: flex;
+                   
+}
+
+.half-width{
+                    width: 50%;
+                  padding-left: 10px;
+                  height: 220px;
+}
+.half-width img{
+                    width:80%;
+                    height:300px;
+                  
+                   
+}
+.fa-solid{
+                    color: rgb(7, 7, 8);
+                    padding:10px;
+                    font-size:20px
+}
+.five-section{
+                    margin-top:200px;
+}
+.input{
+                    background-color: pink;
+                    text-align: center;
+                    width:50%;
+                    background-position: unset ;
+                    margin-top: 50px;
+                    padding: 50px;
+                    border-radius: 5px;
+                    border: none;
+                    margin: 0px;
+}
+.footer{
+                    text-align: center;
+                    background-color: black;
+                    color: tomato;
+}
+#font-style{
+                    font-family: 'Poppins', sans-serif;
+}
